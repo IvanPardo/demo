@@ -81,7 +81,7 @@
       "phone": "024-648-3804",
     }
   ],
-  "comments": [
+  "test": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
