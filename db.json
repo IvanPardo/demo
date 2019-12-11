@@ -90,11 +90,66 @@
       "phone": "024-648-3804" ,       "status": "open"
     }
   ],
-  "test": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "results": [
+      {
+          "text": "a",
+          "total": "55" 
+      },
+      {
+          "text": "b",
+          "total": "35" 
+      },
+      {
+          "text": "c",
+          "total": "44" 
+      },
+      {
+          "text": "d",
+          "total": "12" 
+      },
+      {
+          "text": "e",
+          "total": "37" 
+      },
+      {
+          "text": "f",
+          "total": "90" 
+      },
+      {
+          "text": "g",
+          "total": "100" 
+      },
+      {
+          "text": "h",
+          "total": "78" 
+      },
+      {
+          "text": "i",
+          "total": "67" 
+      },
+      {
+          "text": "j",
+          "total": "88" 
+      },
+      {
+          "text": "k",
+          "total": "42" 
+      },
+      {
+          "text": "l",
+          "total": "67" 
+      },
+      {
+          "text": "m",
+          "total": "82" 
+      },
+      {
+          "text": "n",
+          "total": "45" 
+      },
+      {
+          "text": "o",
+          "total": "55" 
+      },
+  ]
 }
