@@ -87,7 +87,8 @@
       "username": "Moriah.Stanton",
       "email": "Rey.Padberg@karina.biz",
       "city": "Lebsackbury",
-      "phone": "024-648-3804" ,       "status": "open"
+      "phone": "024-648-3804" ,
+      "status": "open"
     }
   ],
   "results": [
@@ -150,6 +151,6 @@
       {
           "text": "o",
           "total": "55" 
-      },
+      }
   ]
 }
